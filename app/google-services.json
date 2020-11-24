@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236960821101",
+    "firebase_url": "https://el-bazaar-a6eaa.firebaseio.com",
+    "project_id": "el-bazaar-a6eaa",
+    "storage_bucket": "el-bazaar-a6eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236960821101:android:d2149c40a2ad39cb517464",
+        "android_client_info": {
+          "package_name": "com.example.el_bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236960821101-g3ehtr7n8makrjqkhtfq0fjgdgqd4pbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_bazaar",
+            "certificate_hash": "675cf0bf434d6cd729d37f68b7cea7fc5713e26a"
+          }
+        },
+        {
+          "client_id": "236960821101-2t488fldvul0c4vsq3jao8i0k70p3eaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLVsb-g9YR-_QVQ_TcegfFkt2mDUQOr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236960821101-2t488fldvul0c4vsq3jao8i0k70p3eaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
